@@ -26,7 +26,18 @@ The second step is the most important one and in this, to add functionalities to
 
 Now let's begin with creating a simple calculator app using Tkinter in Python which is used for basic arithmetic calculations.
 
+# ScreenShots
+
+![cal](https://user-images.githubusercontent.com/55308841/102898840-1e581300-4490-11eb-9794-1dbcca84fb1c.png)
+
+![call](https://user-images.githubusercontent.com/55308841/102898846-2021d680-4490-11eb-86c6-a4a2890e763c.png)
+
+
+# Contributor
+
+Rahul Kumar , @rahul13199kumar
+
 
 # Summary
 
-Here ,we developed a basic Calculator application using Tkinter and various widgets of Tkinter about which we have covered in our Tkinter Tutorial.
+Here , we developed a basic Calculator application using Tkinter and various widgets of Tkinter about which we have covered in our Tkinter Tutorial.
